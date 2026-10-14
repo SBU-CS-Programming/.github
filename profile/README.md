@@ -2,7 +2,7 @@
 
 **Programming Education · Shahid Beheshti University**
 
-Welcome to the official GitHub organization for programming course resources in the Department of Computer Science at **Shahid Beheshti University (SBU)**.
+Welcome to the GitHub organization dedicated to programming course resources in the Department of Computer Science at **Shahid Beheshti University (SBU)**.
 
 This organization serves as a centralized, version-controlled space for maintaining and sharing educational materials, programming assignments, practical examples, and course-related resources. Our goal is to support students' learning experience while promoting accessible, well-organized, and maintainable educational content.
 
@@ -24,13 +24,13 @@ The organization's educational activities are conducted under the supervision of
 
 - **GitHub:** [@SRKH](https://github.com/SRKH)
 
-## Our Principles
+## Our Commitments
 
-- **Educational value:** Resources are organized to support learning and practical understanding.
-- **Version control:** Git and GitHub are used to track changes and maintain the history of course materials.
-- **Clarity and consistency:** Repositories follow clear structures and documentation practices.
-- **Continuity:** Course resources are maintained with future semesters and teaching assistant teams in mind.
-- **Open access:** Public resources are made available to students and the broader programming community whenever appropriate.
+- **Learning by Doing:** Provide practical exercises, examples, and assignments that reinforce programming concepts and problem-solving skills.
+- **Quality and Clarity:** Maintain well-organized repositories with clear documentation and consistent presentation of educational materials.
+- **Versioned and Reliable Resources:** Track changes to course materials and preserve their history to support maintenance and future improvements.
+- **Long-Term Continuity:** Organize resources to facilitate handover between semesters and successive teaching assistant teams.
+- **Responsible Sharing:** Make resources accessible whenever appropriate, while respecting copyright, licensing, and academic policies.
 
 ## Organization Structure
 
@@ -42,11 +42,6 @@ Please refer to each repository's README for its scope, contents, usage instruct
 
 Unless otherwise stated, course materials are provided for educational purposes. Copyright, licensing, attribution, and permitted uses may differ between repositories and individual resources. Please consult the relevant repository's license and notices before reusing or redistributing its contents.
 
-## Acknowledgment
-
-This organization is maintained to support programming education in the Department of Computer Science at Shahid Beheshti University, under the academic supervision of Dr. Saeed Reza Kheradpisheh.
-
 ---
 
 **Shahid Beheshti University · Department of Computer Science**
-
